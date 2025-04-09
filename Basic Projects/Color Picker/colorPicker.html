@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #colorbox {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            font-size: 3rem;
+            flex-direction: column;
+        }
+
+        #btn {
+            font-size: 1.3rem;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        #btn:active {
+            font-size: 1.2rem;
+        }
+
+        #color {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="colorbox">
+        <input type="color" id="color"><br>
+        <button id="btn">Choose a color</button>
+    </div>
+    <script src="colorPicker.js"></script>
+</body>
+</html>

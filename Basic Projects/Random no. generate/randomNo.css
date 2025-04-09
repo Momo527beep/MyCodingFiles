@@ -1,0 +1,24 @@
+body{
+    background:indianred;
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+#randomNum {
+    margin: 15px;
+    background-color: #dbaaac;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#rollNum {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#rollDisplay  {
+    margin-left: 15px;
+}

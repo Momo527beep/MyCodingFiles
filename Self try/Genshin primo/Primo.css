@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: powderblue;
+}
+
+#primo {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+#fate {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+#btn {
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: skyblue;
+
+}
+
+#output {
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+
+.footer {
+    margin-top: 20px;
+}
+

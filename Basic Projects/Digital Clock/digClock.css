@@ -1,0 +1,24 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: url('../images2/NYC.png') no-repeat center/cover;
+}
+
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#clock {
+    font-family: serif;
+    font-size: 1.7rem;
+    backdrop-filter: blur(6px);
+    width: 70%;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 8px 32px 0 rgb(0, 0, 0, 0.37);
+    color: #0d0d0d;
+}

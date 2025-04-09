@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#colorList {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    gap: 25px;
+}
+
+.colorItems {
+    width: 70px;
+    height: 70px;
+    border: 5px double #ffffff;
+    border-radius: 8px;
+}
+
+.colorItems:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+
+.input {
+    display: inline-block;
+    font-size: 14px;
+    width: 200px;
+    gap: 20px;
+}
+
+input {
+    margin: 6px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px;
+    margin: auto;
+    width: 150px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding: 8px;
+}
+
+#btn{
+    text-align: center;
+}
+#container {
+    margin-left: 6px;
+}

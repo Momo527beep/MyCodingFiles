@@ -1,0 +1,95 @@
+body {
+    text-align: center;
+    font-family: monospace;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.player, .bot {
+    text-align: center;
+}
+
+.hand {
+    width: 120px;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+.vs {
+    font-size: 25px;
+    margin: 0 10px;
+}
+
+/*a new thing to learn*/
+.choices button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.choices img {
+    width: 90px;
+}
+
+
+
+/* body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.player, .computer {
+    text-align: center;
+}
+
+.hand {
+    width: 100px;  /*Adjust size as needed
+}
+
+/* .vs {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 20px;
+} */
+
+/* Hand Shake Animation
+.shake {
+    animation: shake 0.5s infinite alternate;
+}
+
+.choices button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.choices img {
+    width: 80px;  /* Adjust as needed
+}
+/* @keyframes shake {
+    0% { transform: rotate(10deg); }
+    100% { transform: rotate(-10deg); }
+}
+
+
+
+.choices img:hover {
+    transform: scale(1.1);
+} */
+
