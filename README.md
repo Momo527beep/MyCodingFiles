@@ -4,7 +4,7 @@ A collection of all my JavaScript projects — built while learning HTML, CSS, a
 
 ## 📁 What's Inside
 
-This repository contains multiple folders, each for a different project. Some are simple, some are more complex — but all of them are built with vanilla JavaScript along with HTML and CSS.
+This repository contains folders for different small projects I made while learning and practicing. All of them are built with vanilla JavaScript.
 
 ### Examples of Projects
 
