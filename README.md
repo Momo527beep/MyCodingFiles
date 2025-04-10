@@ -1,19 +1,13 @@
 # JavaScript Projects Collection
 
-A collection of all my JavaScript projects — built while learning HTML, CSS, and JavaScript.
+A collection of small JavaScript projects I made while learning and practicing HTML, CSS, and JS.
 
 ## 📁 What's Inside
 
-This repository contains folders for different small projects I made while learning and practicing. All of them are built with vanilla JavaScript.
+This repository contains folders with very simple, self-made projects — all built using vanilla JavaScript.
 
-### Examples of Projects
 
-- 🎮 Mini Games (e.g., Tic Tac Toe, Rock Paper Scissors)
-- 🧮 Calculators
-- 🛠️ Self-Made Creative Projects
-- 💡 Small projects from learning and experimenting
-
-> **Note:** These are not my main projects — those are available on CodePen.
+## Note: These are not my main projects — those are available on CodePen.
 
 ### 🔗 My CodePen Profile
 You can find all of my main and organized projects here:  
