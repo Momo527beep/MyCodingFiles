@@ -13,5 +13,11 @@ This repository contains folders for different small projects I made while learn
 - 🛠️ Self-Made Creative Projects
 - 💡 Small projects from learning and experimenting
 
+> **Note:** These are not my main projects — those are available on CodePen.
+
+### 🔗 My CodePen Profile
+You can find all of my main and organized projects here:  
+👉 (https://codepen.io/Adiba-Anwer/collections/)
+
 ## 📺 YouTube Channels I Learned From
 Bro Code, CodePhilip, CodeLab, Kevin Powell
