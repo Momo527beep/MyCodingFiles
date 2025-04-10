@@ -7,6 +7,7 @@ A collection of small JavaScript projects I made while learning and practicing H
 This repository contains folders with very simple, self-made projects — all built using vanilla JavaScript.
 
 
+
 **🔔Important: These are not my main projects — those are available on CodePen.**
 
 ### 🔗 My CodePen Profile
